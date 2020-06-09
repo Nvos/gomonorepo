@@ -1,0 +1,12 @@
+[environment]
+profile = 0
+
+[logging]
+logLevel = -1
+
+[server]
+host = "http://localhost"
+port = 8080
+
+[security]
+jwtSigningSecret = "secret"
